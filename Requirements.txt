@@ -2,3 +2,7 @@ streamlit
 tavily-python
 dedent
 openai
+gpt4all
+chromadb
+langgraph
+beautifulsoup4
